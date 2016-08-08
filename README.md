@@ -1,0 +1,3 @@
+My Alexa skill helps users to find the address of a Seattle park. Users can invoke the skill by saying “pin point park” and Alexa will instruct the user to say the name of a park they wish to get the address of. After receiving input Alexa will confirm the name of the park and ask the user if it is correct before proceeding to find the address of the given park. Alexa will then search through a list of parks obtained from the city of Seattle government data API. If there is a match for the given park, then Alexa will give the address for it. If no match is found Alexa will notify the user that she can’t find the park. 
+Skill invocation: “pin point park”
+Seattle parks address API: https://dev.socrata.com/foundry/data.seattle.gov/ajyh-m2d3
